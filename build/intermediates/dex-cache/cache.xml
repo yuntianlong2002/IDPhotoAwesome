@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-4db740a0923faf9d21f66df2dfba5672201c3cf6.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/IDPhotoAwesome/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f47d1f1c69175357249d0ed733a6332b0174196b">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-080ea571dfe38c759949145d091288cc37698d0a.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-c8af4b44a5486cd324855933b1102499626c966f.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ba245f888655cda83ddf976a8bbc9e17a81b8674.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-8ab048fa31fb43b497f9e7938e40dda02080e108.jar" />
+    </item>
+
+</items>
