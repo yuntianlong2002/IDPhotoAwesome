@@ -48,7 +48,7 @@ public class CropParams {
         crop = "true";
         scale = true;
         returnData = false;
-        noFaceDetection = true;
+        noFaceDetection = false;
         scaleUpIfNeeded = true;
         aspectX = DEFAULT_ASPECT;
         aspectY = DEFAULT_ASPECT;

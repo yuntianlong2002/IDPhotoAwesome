@@ -2,17 +2,10 @@
 <items version="2" >
 
     <item
-        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-4db740a0923faf9d21f66df2dfba5672201c3cf6.jar" />
-    </item>
-    <item
         jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/IDPhotoAwesome/library/unspecified/classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="f47d1f1c69175357249d0ed733a6332b0174196b">
+        sha1="0604ca85d9b9d4474dcfcfe142e34857a27a625a">
         <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-080ea571dfe38c759949145d091288cc37698d0a.jar" />
     </item>
     <item
@@ -21,6 +14,13 @@
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0">
         <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-c8af4b44a5486cd324855933b1102499626c966f.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-4db740a0923faf9d21f66df2dfba5672201c3cf6.jar" />
     </item>
     <item
         jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
@@ -35,6 +35,13 @@
         revision="20.0.0"
         sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
         <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-8ab048fa31fb43b497f9e7938e40dda02080e108.jar" />
+    </item>
+    <item
+        jar="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/exploded-aar/IDPhotoAwesome/library2/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="354a1483d542c7f8a1e62dc67a66787378239079">
+        <dex dex="/Users/jiaxing/AndroidStudioProjects/IDPhotoAwesome/app/build/intermediates/pre-dexed/debug/classes-250ce3b4782437e0c3147dbff32ec9a17c3e9f6a.jar" />
     </item>
 
 </items>

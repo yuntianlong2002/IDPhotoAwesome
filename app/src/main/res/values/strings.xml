@@ -2,5 +2,44 @@
     <string name="app_name">IDPhotoAwesome</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="email">电子邮件</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="planets_array">
+        <item>美国</item>
+        <item>加拿大</item>
+        <item>日本</item>
+        <item>泰国</item>
+        <item>英国</item>
+        <item>德国</item>
+        <item>印度</item>
+        <item>韩国</item>
+    </string-array>
+
+    <string-array name="height_pixel">
+        <item>600</item>
+    </string-array>
+
+    <string-array name="width_pixel">
+        <item>600</item>
+    </string-array>
+
+    <string-array name="h_div_w">
+        <item>1</item>
+    </string-array>
+
+    <string-array name="size_max_kb">
+        <item>240</item>
+    </string-array>
+
+    <string-array name="percentage_height_min_head">
+        <item>0.5</item>
+    </string-array>
+
+    <string-array name="percentage_height_max_head">
+        <item>0.69</item>
+    </string-array>
+
+    <string name="dialog_message">照片的尺寸为50毫米X50毫米.正方形, 头像居于正中。 头部 (从头顶至下巴) 25毫米至35毫米, 眼睛到照片底部的距离为28毫米至35毫米。白色背景的彩色照片, 照片无边框</string>
+
 </resources>
